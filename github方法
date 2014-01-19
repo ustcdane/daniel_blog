@@ -44,7 +44,8 @@
 　　Receiving objects: 100% (3/3), done.
 　　【第三步】上传README.md文件
 
-　　这个时候，我们的GitHub文件夹下就多了一个myRepoForBlog文件夹，进入文件夹目录，对仓库进行初始化，如果我们之前没有勾选创建README，则要先创建README.md文件，不然上传文件会报错。如果在第一步就勾选过了，则可以直接进入第四步。
+　　这个时候，我们的GitHub文件夹下就多了一个myRepoForBlog文件夹，进入文件夹目录，对仓库进行初始化，如果我们之前没有
+　　勾选创建README，则要先创建README.md文件，不然上传文件会报错。如果在第一步就勾选过了，则可以直接进入第四步。
 
 　　git init
 　　touch README.md
