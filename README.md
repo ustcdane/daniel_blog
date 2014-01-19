@@ -1,3 +1,6 @@
+
+请移步这里 https://github.com/ustcdane/myBlog                                                                            
+
 daniel_blog
 ===========
 个人博客。
